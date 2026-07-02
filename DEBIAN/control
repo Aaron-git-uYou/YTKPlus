@@ -1,0 +1,7 @@
+Package: me.ikghd.ytkplus
+Name: YTKPlus
+Version: 5.7.6
+Architecture: iphoneos-arm64
+Maintainer: ikarwan
+Depends: mobilesubstrate | substitute | ellekit, com.ps.YouTubeHeader, preferenceloader
+Description: YTKPlus crack by @itzzace0
